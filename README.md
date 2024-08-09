@@ -24,3 +24,21 @@ In Audacity, we utilized a variety of audio editing tools to achieve our goal:
 ### Audio and Video Integration
 Once the audio editing was completed, we used **OpenShot** to replace the original audio in the trailer with our edited version. This step ensured that the video remained unchanged while the audio provided a completely different context.
 
+## Justification
+
+The decision to transform the trailer from a **Action Game** to a **Misterious and Suspense Game** was made to showcase the versatility of sound in shaping the viewer's perception. By altering key audio components—such as pitch, tempo, and effects—we aimed to demonstrate how audio can drastically change the mood and storytelling of visual content. Our editing choices were carefully crafted to maintain the trailer's coherence while providing a contrasting interpretation of the visuals.
+
+## Submission Details
+- **Submission Date:** August 15, 2024, 22:00
+- **GitHub Repository:** https://github.com/Belhill100/MiniProject_EC_IE
+- The repository includes:
+  - The final edited video.
+  - The Audacity project file (.aup3).
+  - This README file.
+
+## Evaluation Criteria
+The project will be evaluated based on the following criteria:
+- **Audio Editing Tools Utilization:** 40%
+- **Change in Trailer Meaning:** 30%
+- **Compliance with Project Guidelines:** 20%
+- **GitHub Repository (structure and content):** 10%
