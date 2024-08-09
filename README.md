@@ -1,4 +1,4 @@
-# Interaction Systems - Mini Project 1
+# Interactive Systems - Mini Project 1
 
 ## Team Members
 - **Emmanuel Collazos**
