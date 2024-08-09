@@ -1,2 +1,6 @@
-# MiniProyecto_EC_IE
- 
+# Interaction Systems - Mini Project 1
+
+## Team Members
+- **Emmanuel Collazos**
+- **Isaac Escobar**
+
