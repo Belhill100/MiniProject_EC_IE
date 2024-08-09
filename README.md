@@ -32,9 +32,9 @@ The decision to transform the trailer from a **Action Game** to a **Misterious a
 - **Submission Date:** August 15, 2024, 22:00
 - **GitHub Repository:** https://github.com/Belhill100/MiniProject_EC_IE
 - The repository includes:
-  - ![YouTube](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/1280px-YouTube_Logo_2017.svg.png) [YouTube](https://www.youtube.com) The original video.
-  - ![YouTube](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/1280px-YouTube_Logo_2017.svg.png) [YouTube](https://www.youtube.com) The final edited video.
-  - ![Audacity](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Audacity_Logo.svg/2560px-Audacity_Logo.svg.png) [Audacity](https://www.audacityteam.org/)The Audacity project file (.aup3).
+  - The original video.
+  - The final edited video.
+  - The Audacity project file (.aup3).
   - This README file.
 
 ## Evaluation Criteria
