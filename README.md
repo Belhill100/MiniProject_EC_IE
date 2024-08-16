@@ -31,6 +31,7 @@ The decision to transform the trailer from a **Action Game** to a **Misterious a
 ## Submission Details
 - **Submission Date:** August 15, 2024, 22:00
 - **GitHub Repository:** https://github.com/Belhill100/MiniProject_EC_IE
+- **Drive with the Project:** https://1drv.ms/f/s!Ap389ddS-6hBlrZhcDZ2eBRs3CiBZw?e=Z6VUp4
 - The repository includes:
   - The original video.
   - The final edited video.
